@@ -11,3 +11,8 @@ Harshit Hiremath
 4. [Naive Bayesian classifier](./Week4)
 5. [Naive Bayesian text classifier](./Week5)
 6. [Bayesian Network model](./Week6)
+7. [k-Means Clustering Algorithm](./Week6)
+8. [EM algorithm, Compare k-Means and EM](./Week8)
+9. [k-Nearest Neighbour algorithm](./Week9)
+10. [Linear Regression algorithm](./Week10)
+11. [Non-Parametric Locally Weighted Regression algorithm](./Week11)
